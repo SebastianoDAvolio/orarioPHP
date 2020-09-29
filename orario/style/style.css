@@ -1,0 +1,25 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+.one{
+	background-color:#d1c5a3;
+}
+.one:hover{
+	transition-duration:2s;
+    -webkit-transition-duration:2s;
+	background-color:#e6d6ac;
+}
+.two{
+	background-color:#e6d6ac;
+}
+.two:hover{
+	transition-duration:2s;
+    -webkit-transition-duration:2s;
+	background-color:#d1c5a3;
+}
+table{
+	width:100%;
+}
+td{
+	text-align:center;
+}
